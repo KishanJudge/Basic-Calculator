@@ -1,7 +1,7 @@
-# Basic-Calculator
+## Basic-Calculator
 Basic GUI Calculator / Java Swing
 
-# Features
+## Features
 - Multiply, Add, Subtract, Divide
 - Bracket Functionality
 
